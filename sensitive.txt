@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Sample File appended
+=======
+Sample
+Plus
+>>>>>>> c88028041d7b4d83fa7210e6da8bfbf3d0455a3d
