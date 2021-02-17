@@ -12,5 +12,10 @@ Appended
 =======
 Plus2
 >>>>>>> ee31b56b8b2b3e51f82040f3b04138c35e08e5de
+<<<<<<< HEAD
 Plus3
 Plus4
+=======
+Plus5
+Plus6
+>>>>>>> c26c0e24829913934fe9a79e827749232cef5d38
