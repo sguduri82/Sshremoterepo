@@ -7,4 +7,8 @@ Plus
 >>>>>>> c88028041d7b4d83fa7210e6da8bfbf3d0455a3d
 =======
 Appended
+<<<<<<< HEAD
 >>>>>>> a5d56e964a334a0e356ee37aa350966bc3f395ab
+=======
+Plus2
+>>>>>>> ee31b56b8b2b3e51f82040f3b04138c35e08e5de
