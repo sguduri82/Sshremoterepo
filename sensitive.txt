@@ -24,3 +24,4 @@ Plus7LocalChange
 <<<<<<< HEAD
 Added after branching
 MyBranch3Change1
+MyBranch3Change2
